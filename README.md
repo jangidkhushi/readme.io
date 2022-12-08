@@ -1,1 +1,3 @@
-# My name is Khushi Jangid.
+- My name is Khushi Jangid.
+- I am a freshman in IGDTUW, Kashmere Gate
+- 
